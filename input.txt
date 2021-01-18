@@ -1,0 +1,11 @@
+Mitochondria are unusual organelles. 
+They act as the Power Plants of the cell, are surrounded by two membranes, and have their own genome. 
+They also divide independently of the cell in which they reside, meaning mitochondrial replication is not coupled to cell division. 
+Some of these features are holdovers from the ancient ancestors of mitochondria, which were likely free-living prokaryotes.
+Mitochondria are thought to have originated from an ancient symbiosis that resulted when a nucleated cell engulfed an aerobic prokaryote. 
+The engulfed cell came to rely on the protective environment of the host cell, and, conversely, the host cell came to rely on the engulfed prokaryote for energy production. 
+Gradually, the descendants of the engulfed prokaryote developed into mitochondria, and the work of these organelles became critical to eukaryotic evolution.
+The cell membranes protect and organize cells. 
+All cells have an outer plasma membrane that regulates not only what enters the cell, but also how much of any given substance comes in. 
+Unlike prokaryotes, eukaryotic cells also possess internal membranes that encase their organelles and control the exchange of essential cell components. 
+Both types of membranes have a specialized structure that facilitates their gatekeeping function.
